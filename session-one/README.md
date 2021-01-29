@@ -2,39 +2,34 @@
 
 ## Session Content
 
-### Standard Content
+### Teaching Session Content
 
-- Get set up on Google Colab
-- Let Python ‘talk’ to you using the print() function
-- Use Python as a basic calculator
-- Give Python ‘memory’ using variables
+- Reading/writing data from/to files
+- Exploring the structure and contents of a dataset
+- Subsetting and filtering
+- Mutating and summarising datasets
 
-### Additional Notes
+### Project Session Content
 
-- `sep`, `end`, special characters for printing	
-- `__repr__` vs `__str__`	
-- Modular arithmetic	
-- Math	
-- Inplace operators	
-- Multiple assignment (AKA tuple unpacking)
+- Grouped summaries
+- Using Excel data
+- Multi-indexes
 
-## Session Recording
+### Recommended Reading and Resources
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ENQtg75jf9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Pandas [API Reference](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
+- Pandas [User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
+- Pandas [IO Tools](https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html)
+- Pandas [Data Structures](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
 
 ## Session Resources
 
-- [Presentation](https://github.com/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_presentation.pptx?raw=true)
-- [Blank Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_blank_template.ipynb)
-- [Filled Template](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_filled_template.ipynb)
+## Teaching Session
 
-## Session Homework
+- [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/session-one-teaching-questions.ipynb?raw=true)
+- [Solutions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/session-one-teaching-solutions.ipynb?raw=true)
 
-- [Exercises](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_exercises.ipynb)
-- [Solutions](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_solutions.ipynb)
+## Project Session
 
-## Additional Content
-
-- [Subject-specific questions](https://warwickdatasciencesociety.github.io/beginners-python/session-one/session_one_subject_questions/)
-- [Additional notes in notebook form](https://colab.research.google.com/github/warwickdatasciencesociety/beginners-python/blob/master/session-one/session_one_additional_content.ipynb)
-
+- Questions
+- Solutions
