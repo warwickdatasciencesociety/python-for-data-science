@@ -25,7 +25,7 @@ WDSS's Python for Data Science is the continuation of our [Beginner's Python](/b
 
 ### Setup Guide
 
-Now that we're moving beyond a beginner's level of Python, it's time to leave Google Colab behind us and move on to using Python on our local machine. You can find a setup guide in the first bonus video of from the [session listing](#session-links), walking through how to use Git, Conda, and Jupyter to complete the teaching notebooks and project work. Python can be notoriously difficult to setup, but once it's done it's done, so stick with it and ask for [help](#getting-help) if needed. By running code on our local machine and using Git (explained in the video), you will be able to save your work on GitHub, a good first step in building a portfolio to show to employers.
+Now that we're moving beyond a beginner's level of Python, it's time to leave Google Colab behind us and move on to using Python on our local machine. You can find a setup guide in the first bonus video from the [session listing](#session-links), walking through how to use Git, Conda, and Jupyter to complete the teaching notebooks and project work. Python can be notoriously difficult to setup, but once it's done it's done, so stick with it and ask for [help](#getting-help) if needed. By running code on our local machine and using Git (explained in the video), you will be able to save your work on GitHub, a good first step in building a portfolio to show to employers.
 
 ### Issue Reporting
 
@@ -49,6 +49,7 @@ Following each teaching session, on alternating weeks, one of our subject ambass
 
 Here you can find the resources for each session. Sessions will be added as the course progresses.
 
+* [Bonus Session One](https://youtu.be/OGlnGob0GmY) (Setup Guide)
 * [Session One](session-one)
 
 ### Further Reading
