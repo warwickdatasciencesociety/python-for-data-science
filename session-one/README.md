@@ -35,5 +35,5 @@
 - [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/session-one-project-questions.ipynb?raw=true)
 - Solutions
 - [COVIDiSTRESS](https://raw.githubusercontent.com/warwickdatasciencesociety/python-for-data-science/master/session-one/data/covidstress.csv)
-- [Country Mapping](https://raw.githubusercontent.com/warwickdatasciencesociety/python-for-data-science/master/session-one/data/country_by_continent.xlsx)
+- [Country Mapping](https://raw.githubusercontent.com/warwickdatasciencesociety/python-for-data-science/master/session-one/data/countries_by_continent.xlsx)
 
