@@ -33,7 +33,7 @@
 ### Project Session
 
 - [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/session-one-project-questions.ipynb?raw=true)
-- Solutions
+- [Solutions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/session-one-project-solutions.ipynb?raw=true)
 - [COVIDiSTRESS](https://raw.githubusercontent.com/warwickdatasciencesociety/python-for-data-science/master/session-one/data/covidstress.csv)
 - [Country Mapping](https://raw.githubusercontent.com/warwickdatasciencesociety/python-for-data-science/master/session-one/data/countries_by_continent.xlsx)
 
