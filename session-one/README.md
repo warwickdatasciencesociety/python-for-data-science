@@ -1,4 +1,4 @@
-# Beginner's Python: Session One
+# Python for Data Science: Session One
 
 ## Session Content
 
