@@ -16,7 +16,7 @@ data = {
     'x': [],
     'y': []
 }
-for i in range(10):
+for i in range(N):
     data['particle'].extend(np.full(t.shape, i+1))
     data['time'].extend(t)
     data['x'].append(0)
