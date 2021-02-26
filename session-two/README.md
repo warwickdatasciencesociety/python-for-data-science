@@ -34,6 +34,6 @@
 ### Project Session
 
 - [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-two/session-two-project-questions.ipynb?raw=true)
-- [Solutions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-two/session-two-project-solutions.ipynb)
+- Solutions
 - [Brownian Motion Dataset](https://raw.githubusercontent.com/warwickdatasciencesociety/python-for-data-science/master/session-two/data/brownian_motion.csv)
 
