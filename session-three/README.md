@@ -23,9 +23,8 @@
 
 ### Teaching Session
 
-- Questions
-- Solutions
-
+- [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-three/session-three-teaching-questions.ipynb?raw=true)
+- [Solutions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-three/session-three-teaching-solutions.ipynb)
 ### Project Session
 
 - Questions
