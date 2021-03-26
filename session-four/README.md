@@ -30,6 +30,5 @@
 
 ### Project Session
 
-- Questions
-- Solutions
+- [Demonstration](https://nbviewer.jupyter.org/github/roncv/python-for-data-science/blob/master/session-four/session-four-project-solutions.ipynb)
 
