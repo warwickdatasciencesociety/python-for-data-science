@@ -32,8 +32,17 @@
 
 ### Project Session
 
+*Social Sciences*
 - [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/session-one-project-questions.ipynb?raw=true)
-- [Solutions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/session-one-project-solutions.ipynb)
+- [Solutions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session+one/session-one-project-solutions.ipynb)
 - [COVIDiSTRESS](https://raw.githubusercontent.com/warwickdatasciencesociety/python-for-data-science/master/session-one/data/covidstress.csv)
 - [Country Mapping](https://raw.githubusercontent.com/warwickdatasciencesociety/python-for-data-science/master/session-one/data/countries_by_continent.xlsx)
 
+*Economics*
+- [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/session-one-project-econ-questions.ipynb?raw=true)
+
+*Mathematics and Statistics*
+- [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/session-one-project-maths-stats-questions.ipynb)
+
+*Chemistry and Biology*
+- [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/session-one-project-biochem-questions.ipynb?raw=true)
