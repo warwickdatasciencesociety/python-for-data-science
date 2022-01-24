@@ -84,9 +84,7 @@ Project sessions were developed by:
 - Biochemistry: [Omar Abdul-Aziz]() and [Ron Cvek](https://www.linkedin.com/in/ronaldcvek/)
 - Finance/Economics: [Szymon Litwin](https://www.linkedin.com/in/szymon-litwin-38a9021bb/) and [Patricio Hernandez](https://www.linkedin.com/in/patriciohdzs/)
 - Mathematics/Statisics: [Amr Abdelmotteleb](https://www.linkedin.com/in/amr-abdelmotteleb-3574691ba/) and [Patrick Fahy](https://www.linkedin.com/in/patrick-fahy-686689174/)
-- Physics/Engineering: TBD
 - Politics/Social Sciences: [Tasneem Amijee](https://www.linkedin.com/in/tasneem-amijee-5147a9a1/) and [Tim Hargreaves](https://www.linkedin.com/in/tim-hargreaves/)
-- Linguistics: [Holly Taylor](https://www.linkedin.com/in/holly-taylor-988514211/)
 
 The current course coordinator is [Dodzia Daraz](https://www.linkedin.com/in/dominika-daraż-b13335162/). 
 
