@@ -1,6 +1,6 @@
 # Welcome to Python for Data Science
 
-If you are viewing this page on GitHub, you may want to switch to the [standalone website](https://education.wdss.io/python-for-data-science) for a better experience.
+If you are viewing this page on GitHub, you may want to switch to the [standalone website](https://warwickdatasciencesociety.github.io/python-for-data-science/) for a better experience.
 
 ## On This Page
 
