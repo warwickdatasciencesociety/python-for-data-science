@@ -43,6 +43,8 @@
 
 *Mathematics and Statistics*
 - [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/session-one-project-maths-stats-questions.ipynb?raw=true)
+- [Data](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/data/mathematicians.csv?raw=true)
+
 
 *Chemistry and Biology*
 - [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-one/session-one-project-biochem-questions.ipynb?raw=true)
