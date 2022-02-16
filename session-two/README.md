@@ -33,7 +33,22 @@
 
 ### Project Session
 
+*Physics and Engineering*
 - [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-two/session-two-project-questions.ipynb?raw=true)
 - [Solutions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-two/session-two-project-solutions.ipynb)
 - [Brownian Motion Dataset](https://raw.githubusercontent.com/warwickdatasciencesociety/python-for-data-science/master/session-two/data/brownian_motion.csv)
 
+*Social Sciences*
+- [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-two/session-two-project-social-sciences-questions.ipynb?raw=true)
+- [Data](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-two/Goal7data.csv?raw=true)
+
+*Economics*
+- [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-two/session-two-project-econ-questions.ipynb?raw=true)
+
+*Mathematics and Statistics*
+- [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-two/session-two-project-maths-stats-questions-.ipynb?raw=true)
+- [Data](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-two/data/californiaDDSDataV2.csv?raw=true)
+
+*Chemistry and Biology*
+- [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-two/session-two-project-biochem-questions.ipynb?raw=true)
+- [Data](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-two/Phage%20Dataset%20(1).csv?raw=true)
