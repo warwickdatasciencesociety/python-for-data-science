@@ -31,6 +31,7 @@ TBD
 
 ### Project Session
 
+#Economins/Finance
 - [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-five/session-five-project-questions.ipynb?raw=true)
 - Solutions
 - [Bankruptcy Dataset](https://raw.githubusercontent.com/warwickdatasciencesociety/python-for-data-science/master/session-five/data/bankruptcy.csv)
