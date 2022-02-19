@@ -11,16 +11,13 @@
 - Ensemble methods (bagging) with random forests
 - Cross-validation and hyperparameter tuning
 
-### Project Session Content
-
-TBD
-
 ### Recommended Reading and Resources
 
 - Scikit-learn [API Reference](https://scikit-learn.org/stable/modules/classes.html)
 - Scikit-learn [User Guide](https://scikit-learn.org/stable/user_guide.html#)
 - Scikit-learn [Examples](https://scikit-learn.org/stable/auto_examples/index.html)
 - Google's [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+- Cassie Kozorov's [Making Friends With Machine Learning course](https://www.youtube.com/watch?v=lYWt-aCnE2U&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=1)
 
 ## Session Resources
 
@@ -31,7 +28,7 @@ TBD
 
 ### Project Session
 
-#Economins/Finance
+*Economins/Finance*
 - [Questions](https://github.com/warwickdatasciencesociety/python-for-data-science/blob/master/session-five/session-five-project-questions.ipynb?raw=true)
 - Solutions
 - [Bankruptcy Dataset](https://raw.githubusercontent.com/warwickdatasciencesociety/python-for-data-science/master/session-five/data/bankruptcy.csv)
